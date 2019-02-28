@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+   background-color: #f5f7f8 !important;
+  }
+  .belSubMenu:hover
+  {
+    background-color: #ccc !important;
+    color: black !important;
+  }
+  .dropdown:hover>.dropdown-menu {
+        display: block;
+    }
+  
